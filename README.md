@@ -9,9 +9,9 @@ Python Script For Get Domain/Subdomains IP's History Using VirusTotal API
 ⌨ __usage: MoonTotal.py [-h] [-d DOMAIN] [-o OPTIONS]__
 
 # optioms:
-_-h, --help            show this help message and exit_
-_-d, --domain           (Domain for find ip's history or subdomains.)_
-_-o, --options OPTIONS (Select option: subd, ips)_
+# -h, --help            show this help message and exit
+# -d, --domain           (Domain for find ip's history or subdomains.)
+# -o, --options OPTIONS (Select option: subd, ips)
 
 # ___________________________________________
 
