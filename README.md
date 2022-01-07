@@ -18,7 +18,13 @@ Python Script For Get Domain/Subdomains IP's History Using VirusTotal API
 
 # 🧰 __Example__
 
+# IP's History
+# 
+![image](https://cdn.discordapp.com/attachments/705248947005816944/928821599841439744/unknown.png)
 
+# Subdomains
+#
+![image](https://cdn.discordapp.com/attachments/705248947005816944/928821973277085766/unknown.png)
 
 # ___________________________________________
   
@@ -27,7 +33,7 @@ Python Script For Get Domain/Subdomains IP's History Using VirusTotal API
 
 __[C0ded By xNullCode / Deneb / Ghosty]__
                         
-__Discord: Deneb007,#6666__    
+__Discord: Ghostykdi#7168__    
 __Telegram: t.me/zGhosty__       
 
 __[C0ded By xNullCode / Deneb / Ghosty]__
